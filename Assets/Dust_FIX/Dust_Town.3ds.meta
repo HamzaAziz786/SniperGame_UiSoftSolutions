@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 023f71a39373b6446b9ac8ccac92e46e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Model_0000
+    100004: Model_0001
+    100006: Model_0002
+    100008: Model_0003
+    100010: Model_0004
+    100012: Model_0005
+    100014: Model_0006
+    100016: Model_0007
+    100018: Model_0008
+    100020: Model_0009
+    100022: Model_0010
+    100024: Model_0011
+    100026: Model_0012
+    100028: Model_0013
+    100030: Model_0014
+    100032: Model_0015
+    100034: Model_0016
+    100036: Model_0017
+    100038: Model_0018
+    400000: //RootNode
+    400002: Model_0000
+    400004: Model_0001
+    400006: Model_0002
+    400008: Model_0003
+    400010: Model_0004
+    400012: Model_0005
+    400014: Model_0006
+    400016: Model_0007
+    400018: Model_0008
+    400020: Model_0009
+    400022: Model_0010
+    400024: Model_0011
+    400026: Model_0012
+    400028: Model_0013
+    400030: Model_0014
+    400032: Model_0015
+    400034: Model_0016
+    400036: Model_0017
+    400038: Model_0018
+    2100000: -0Sand
+    2100002: -1csSandWall
+    2100004: -2Sand
+    2100006: MltryCrteSd
+    2100008: MltryCrteSd2
+    2100010: MltryCrteTp
+    2100012: SandCCrete
+    2100014: SandCrtLrgSd
+    2100016: SandCrtLrgTp
+    2100018: SandCrtSmSd
+    2100020: SandRoad
+    2100022: SandTrim
+    2100024: SandWllDoor
+    2100026: SandWllDoor2
+    2100028: SandWllWndw
+    2100030: black
+    2100032: cuwoodm
+    2100034: devo
+    2100036: reklamefes
+    2100038: '{grate3-m'
+    2100040: '{rail1b'
+    2100042: '{tk_grate'
+    2300000: Model_0000
+    2300002: Model_0001
+    2300004: Model_0002
+    2300006: Model_0003
+    2300008: Model_0004
+    2300010: Model_0005
+    2300012: Model_0006
+    2300014: Model_0007
+    2300016: Model_0008
+    2300018: Model_0009
+    2300020: Model_0010
+    2300022: Model_0011
+    2300024: Model_0012
+    2300026: Model_0013
+    2300028: Model_0014
+    2300030: Model_0015
+    2300032: Model_0016
+    2300034: Model_0017
+    2300036: Model_0018
+    3300000: Model_0000
+    3300002: Model_0001
+    3300004: Model_0002
+    3300006: Model_0003
+    3300008: Model_0004
+    3300010: Model_0005
+    3300012: Model_0006
+    3300014: Model_0007
+    3300016: Model_0008
+    3300018: Model_0009
+    3300020: Model_0010
+    3300022: Model_0011
+    3300024: Model_0012
+    3300026: Model_0013
+    3300028: Model_0014
+    3300030: Model_0015
+    3300032: Model_0016
+    3300034: Model_0017
+    3300036: Model_0018
+    4300000: Model_0000
+    4300002: Model_0001
+    4300004: Model_0002
+    4300006: Model_0003
+    4300008: Model_0004
+    4300010: Model_0005
+    4300012: Model_0006
+    4300014: Model_0007
+    4300016: Model_0008
+    4300018: Model_0009
+    4300020: Model_0010
+    4300022: Model_0011
+    4300024: Model_0012
+    4300026: Model_0013
+    4300028: Model_0014
+    4300030: Model_0015
+    4300032: Model_0016
+    4300034: Model_0017
+    4300036: Model_0018
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: -0Sand
+    second: {fileID: 2100000, guid: 2bb8dc30c9eefce4cbe91becaba3f138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: -1csSandWall
+    second: {fileID: 2100000, guid: 3c48349302aa1d64d8e793a5894917e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: -2Sand
+    second: {fileID: 2100000, guid: 4458d42a5a127b941aab36695248f087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MltryCrteSd
+    second: {fileID: 2100000, guid: 754593f2043ccee4b9d01561cc323aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MltryCrteSd2
+    second: {fileID: 2100000, guid: 075b9d6e5e6f04846a233338d653817d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MltryCrteTp
+    second: {fileID: 2100000, guid: fb66dbcc77f91f6498a509d67962e07b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SandCCrete
+    second: {fileID: 2100000, guid: 59075f6a61e4b2b45ac7056843092b5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SandCrtLrgSd
+    second: {fileID: 2100000, guid: 524feab2a689f714695f074bf5b6d3f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SandCrtLrgTp
+    second: {fileID: 2100000, guid: 3b04ab8ecabd9eb43a826d5912f56747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SandCrtSmSd
+    second: {fileID: 2100000, guid: 36c48986021536f44951cf16cfb782a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SandRoad
+    second: {fileID: 2100000, guid: dd356ea1deeea6b48aa973dab4f8a910, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SandTrim
+    second: {fileID: 2100000, guid: 751cb78c67043bf41bf0eee7178b51b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SandWllDoor
+    second: {fileID: 2100000, guid: 97ab7aa19803893408e165bb04300235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SandWllDoor2
+    second: {fileID: 2100000, guid: e4fa95210ce2079438960436bea74d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SandWllWndw
+    second: {fileID: 2100000, guid: da38e2c1e0f3e054eac286918e8c3212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 7d73be544e426c74a9804deb4fa228bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuwoodm
+    second: {fileID: 2100000, guid: 7a3b5efc74adacc4cac00d37340ac6bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: devo
+    second: {fileID: 2100000, guid: 90d25a5772adbcf42bc15790543f861f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reklamefes
+    second: {fileID: 2100000, guid: a4a313db8403fb143b946464a56cd767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '{grate3-m'
+    second: {fileID: 2100000, guid: f3dc7bd08888c9147971baefc41270af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '{rail1b'
+    second: {fileID: 2100000, guid: 96637c76365e4d84090431b87d2d38a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '{tk_grate'
+    second: {fileID: 2100000, guid: 7dad789d5f0d1d24695aaa9488b4b121, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
