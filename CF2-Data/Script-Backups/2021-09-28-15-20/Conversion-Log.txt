@@ -1,0 +1,16 @@
+Converting script [1 / 1]	[\RFPSP\Scripts\Camera\SmoothMouseLook.cs]
+	Fragments : 7
+		[ 0] : Line:   74	Other mod.	[Cursor.visible]
+		[ 1] : Line:   80	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   81	Other mod.	[Cursor.visible]
+		[ 3] : Line:   91	Other mod.	[Cursor.lockState]
+		[ 4] : Line:   92	Other mod.	[Cursor.visible]
+		[ 5] : Line:  140	Other mod.	[Cursor.lockState]
+		[ 6] : Line:  141	Other mod.	[Cursor.visible]
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-15-20\Assets-After/\RFPSP\Scripts\Camera\SmoothMouseLook.cs] to [D:/WorkSpace/RFPS/Assets/\RFPSP\Scripts\Camera\SmoothMouseLook.cs]
+
+Overwriting COMPLETED!

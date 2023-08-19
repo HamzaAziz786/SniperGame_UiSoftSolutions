@@ -1,0 +1,148 @@
+Converting script [1 / 15]	[\FPSHangar\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs]
+	Fragments : 4
+		[ 0] : Line:   68	InputMethod   GetButtonDown       	("Jump")
+		[ 1] : Line:  205	InputMethod   GetAxis             	("Horizontal")
+		[ 2] : Line:  206	InputMethod   GetAxis             	("Vertical")
+		[ 3] : Line:  213	InputMethod   GetKey              	(KeyCode.LeftShift)
+
+Converting script [2 / 15]	[\FPSHangar\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs]
+	Fragments : 2
+		[ 0] : Line:   32	InputMethod   GetAxis             	("Mouse X")
+		[ 1] : Line:   33	InputMethod   GetAxis             	("Mouse Y")
+
+Converting script [3 / 15]	[\FPSHangar\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs]
+	Fragments : 4
+		[ 0] : Line:   47	InputMethod   GetKey              	(RunKey)
+		[ 1] : Line:  131	InputMethod   GetButtonDown       	("Jump")
+		[ 2] : Line:  215	InputMethod   GetAxis             	("Horizontal")
+		[ 3] : Line:  216	InputMethod   GetAxis             	("Vertical")
+
+Converting script [4 / 15]	[\FPSHangar\Standard Assets\ParticleSystems\Scripts\Hose.cs]
+	Fragments : 2
+		[ 0] : Line:   21	InputMethod   GetMouseButton      	(0)
+		[ 1] : Line:   23	InputMethod   GetKeyDown          	(KeyCode.Alpha1)
+
+Converting script [5 / 15]	[\FPSHangar\Standard Assets\Utility\DragRigidbody.cs]
+	Fragments : 5
+		[ 0] : Line:   22	InputMethod   GetMouseButtonDown  	(0)
+		[ 1] : Line:   32	InputProperty mousePosition       
+		[ 2] : Line:   33	InputProperty mousePosition       
+		[ 3] : Line:   71	InputMethod   GetMouseButton      	(0)
+		[ 4] : Line:   73	InputProperty mousePosition       
+
+Converting script [6 / 15]	[\FPSHangar\Standard Assets\Utility\ForcedReset.cs]
+	Fragments : 1
+		[ 0] : Line:   11	InputMethod   GetButtonDown       	("ResetObject")
+
+Converting script [7 / 15]	[\FPSHangar\Standard Assets\Utility\SimpleMouseRotator.cs]
+	Fragments : 4
+		[ 0] : Line:   48	InputMethod   GetAxis             	("Mouse X")
+		[ 1] : Line:   49	InputMethod   GetAxis             	("Mouse Y")
+		[ 2] : Line:   98	InputProperty mousePosition       
+		[ 3] : Line:   99	InputProperty mousePosition       
+
+Converting script [8 / 15]	[\FPSHangar\Tutorial1\Scripts\AutoIntensity.cs]
+	Fragments : 2
+		[ 0] : Line:   70	InputMethod   GetKeyDown          	(KeyCode.Q)
+		[ 1] : Line:   71	InputMethod   GetKeyDown          	(KeyCode.E)
+
+Converting script [9 / 15]	[\FPSHangar\Tutorial1\Scripts\SetSunLight.cs]
+	Fragments : 1
+		[ 0] : Line:   31	InputMethod   GetKeyDown          	(KeyCode.T)
+
+Converting script [10 / 15]	[\FPSHangar\_Source\Script\RoomWanderer.cs]
+	Fragments : 2
+		[ 0] : Line:   58	InputMethod   GetKeyDown          	(KeyCode.Q)
+		[ 1] : Line:   60	InputMethod   GetKeyDown          	(KeyCode.W)
+
+Converting script [11 / 15]	[\RFPSP\Scripts\Camera\CameraControl.cs]
+	Fragments : 1
+		[ 0] : Line:  357	InputMethod   GetAxis             	("Mouse Scroll Wheel")
+
+Converting script [12 / 15]	[\RFPSP\Scripts\Camera\MovePlayerAndCamera.cs]
+	Fragments : 3
+		[ 0] : Line:   70	InputMethod   GetKeyDown          	(KeyCode.Insert)
+		[ 1] : Line:   73	InputMethod   GetKeyDown          	(KeyCode.Delete)
+		[ 2] : Line:   76	InputMethod   GetKeyDown          	(KeyCode.End)
+
+Converting script [13 / 15]	[\RFPSP\Scripts\Camera\SmoothMouseLook.cs]
+	Fragments : 6
+		[ 0] : Line:  100	Other mod.	[Cursor.lockState]
+		[ 1] : Line:  178	InputMethod   GetAxisRaw          	("Mouse X")
+		[ 2] : Line:  178	InputMethod   GetAxisRaw          	("Mouse Y")
+		[ 3] : Line:  179	InputMethod   GetKey              	(KeyCode.Mouse0)
+		[ 4] : Line:  193	Other mod.	[Touch]
+		[ 5] : Line:  193	InputProperty touches             
+
+Converting script [14 / 15]	[\RFPSP\Scripts\Player\InputControl.cs]
+	Fragments : 42
+		[ 0] : Line:  191	InputMethod   GetButton           	("Left")
+		[ 1] : Line:  192	InputMethod   GetButton           	("Right")
+		[ 2] : Line:  193	InputMethod   GetButton           	("Forward")
+		[ 3] : Line:  194	InputMethod   GetButton           	("Back")
+		[ 4] : Line:  238	InputMethod   GetAxisRaw          	("Mouse X")
+		[ 5] : Line:  239	InputMethod   GetAxisRaw          	("Mouse Y")
+		[ 6] : Line:  247	InputMethod   GetAxisRaw          	("Xbox R Trigger")
+		[ 7] : Line:  247	InputMethod   GetButton           	("Fire")
+		[ 8] : Line:  327	InputMethod   GetButtonDown       	("Zoom")
+		[ 9] : Line:  329	InputMethod   GetButtonDown       	("Fire Mode")
+		[10] : Line:  330	InputMethod   GetButton           	("Jump")
+		[11] : Line:  331	InputMethod   GetButtonDown       	("Jump")
+		[12] : Line:  333	InputMethod   GetButton           	("Prone")
+		[13] : Line:  335	InputMethod   GetButton           	("Lean Left")
+		[14] : Line:  336	InputMethod   GetButton           	("Lean Right")
+		[15] : Line:  337	InputMethod   GetButton           	("Use")
+		[16] : Line:  338	InputMethod   GetButtonDown       	("Use")
+		[17] : Line:  339	InputMethod   GetButtonUp         	("Use")
+		[18] : Line:  340	InputMethod   GetButton           	("Toggle Camera")
+		[19] : Line:  341	InputMethod   GetButtonDown       	("Toggle Camera")
+		[20] : Line:  342	InputMethod   GetButton           	("Throw Grenade")
+		[21] : Line:  343	InputMethod   GetButtonDown       	("Melee Attack")
+		[22] : Line:  344	InputMethod   GetButtonDown       	("Toggle Flashlight")
+		[23] : Line:  345	InputMethod   GetButtonDown       	("Holster Weapon")
+		[24] : Line:  346	InputMethod   GetButtonDown       	("Drop Weapon")
+		[25] : Line:  347	InputMethod   GetButtonDown       	("Bullet Time")
+		[26] : Line:  348	InputMethod   GetButtonDown       	("Toggle Deadzone Aiming")
+		[27] : Line:  349	InputMethod   GetButtonDown       	("Help")
+		[28] : Line:  350	InputMethod   GetButtonDown       	("Main Menu")
+		[29] : Line:  351	InputMethod   GetButtonDown       	("Pause")
+		[30] : Line:  353	InputMethod   GetButtonDown       	("Select Previous Weapon")
+		[31] : Line:  354	InputMethod   GetButtonDown       	("Select Next Grenade")
+		[32] : Line:  355	InputMethod   GetButtonDown       	("Select Weapon 1")
+		[33] : Line:  356	InputMethod   GetButtonDown       	("Select Weapon 2")
+		[34] : Line:  357	InputMethod   GetButtonDown       	("Select Weapon 3")
+		[35] : Line:  358	InputMethod   GetButtonDown       	("Select Weapon 4")
+		[36] : Line:  359	InputMethod   GetButtonDown       	("Select Weapon 5")
+		[37] : Line:  360	InputMethod   GetButtonDown       	("Select Weapon 6")
+		[38] : Line:  361	InputMethod   GetButtonDown       	("Select Weapon 7")
+		[39] : Line:  362	InputMethod   GetButtonDown       	("Select Weapon 8")
+		[40] : Line:  363	InputMethod   GetButtonDown       	("Select Weapon 9")
+		[41] : Line:  364	InputMethod   GetButtonDown       	("Select Weapon 0")
+
+Converting script [15 / 15]	[\RFPSP\Scripts\Weapons\WeaponPivot.cs]
+	Fragments : 4
+		[ 0] : Line:  111	Other mod.	[Cursor.lockState]
+		[ 1] : Line:  112	Other mod.	[Cursor.visible]
+		[ 2] : Line:  256	Other mod.	[Cursor.lockState]
+		[ 3] : Line:  257	Other mod.	[Cursor.visible]
+
+
+15 scripts modified!
+Overwriting actual scripts...
+	[0 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\FPSHangar\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs] to [D:/WorkSpace/RFPS/Assets/\FPSHangar\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs]
+	[1 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\FPSHangar\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs] to [D:/WorkSpace/RFPS/Assets/\FPSHangar\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs]
+	[2 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\FPSHangar\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs] to [D:/WorkSpace/RFPS/Assets/\FPSHangar\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs]
+	[3 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\FPSHangar\Standard Assets\ParticleSystems\Scripts\Hose.cs] to [D:/WorkSpace/RFPS/Assets/\FPSHangar\Standard Assets\ParticleSystems\Scripts\Hose.cs]
+	[4 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\FPSHangar\Standard Assets\Utility\DragRigidbody.cs] to [D:/WorkSpace/RFPS/Assets/\FPSHangar\Standard Assets\Utility\DragRigidbody.cs]
+	[5 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\FPSHangar\Standard Assets\Utility\ForcedReset.cs] to [D:/WorkSpace/RFPS/Assets/\FPSHangar\Standard Assets\Utility\ForcedReset.cs]
+	[6 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\FPSHangar\Standard Assets\Utility\SimpleMouseRotator.cs] to [D:/WorkSpace/RFPS/Assets/\FPSHangar\Standard Assets\Utility\SimpleMouseRotator.cs]
+	[7 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\FPSHangar\Tutorial1\Scripts\AutoIntensity.cs] to [D:/WorkSpace/RFPS/Assets/\FPSHangar\Tutorial1\Scripts\AutoIntensity.cs]
+	[8 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\FPSHangar\Tutorial1\Scripts\SetSunLight.cs] to [D:/WorkSpace/RFPS/Assets/\FPSHangar\Tutorial1\Scripts\SetSunLight.cs]
+	[9 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\FPSHangar\_Source\Script\RoomWanderer.cs] to [D:/WorkSpace/RFPS/Assets/\FPSHangar\_Source\Script\RoomWanderer.cs]
+	[10 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\RFPSP\Scripts\Camera\CameraControl.cs] to [D:/WorkSpace/RFPS/Assets/\RFPSP\Scripts\Camera\CameraControl.cs]
+	[11 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\RFPSP\Scripts\Camera\MovePlayerAndCamera.cs] to [D:/WorkSpace/RFPS/Assets/\RFPSP\Scripts\Camera\MovePlayerAndCamera.cs]
+	[12 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\RFPSP\Scripts\Camera\SmoothMouseLook.cs] to [D:/WorkSpace/RFPS/Assets/\RFPSP\Scripts\Camera\SmoothMouseLook.cs]
+	[13 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\RFPSP\Scripts\Player\InputControl.cs] to [D:/WorkSpace/RFPS/Assets/\RFPSP\Scripts\Player\InputControl.cs]
+	[14 / 15] from  [D:/WorkSpace/RFPS/CF2-Data/Script-Backups/2021-09-28-14-29\Assets-After/\RFPSP\Scripts\Weapons\WeaponPivot.cs] to [D:/WorkSpace/RFPS/Assets/\RFPSP\Scripts\Weapons\WeaponPivot.cs]
+
+Overwriting COMPLETED!

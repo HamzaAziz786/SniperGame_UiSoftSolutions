@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/0_PRE_LOADER.unity
+    guid: 288ba84d102f43f4894fa342d99396ff
+  - enabled: 1
+    path: Assets/Scene/1_GAMEPLAY.unity
+    guid: f896b3f2afe731b4996483ac60f8d329
+  - enabled: 1
+    path: Assets/Scene/DESERT_CSGO_EXP.unity
+    guid: b1555e6142a5b984d9eb25b8009c9a68
+  - enabled: 1
+    path: Assets/Scene/ZombieExported.unity
+    guid: e6b2d0da77ffb354b89ebaee1ef9127b
+  m_configObjects: {}

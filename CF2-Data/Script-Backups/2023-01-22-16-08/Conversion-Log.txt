@@ -1,0 +1,21 @@
+Converting script [1 / 3]	[\RotateGuns.cs]
+	Fragments : 1
+		[ 0] : Line:   29	InputMethod   GetAxis             	("Mouse X")
+
+Converting script [2 / 3]	[\StoreHandlerV3.cs]
+	Fragments : 1
+		[ 0] : Line:   97	InputMethod   GetKeyDown          	(KeyCode.Escape)
+
+Converting script [3 / 3]	[\MiniMap\_Demo\Player.cs]
+	Fragments : 2
+		[ 0] : Line:   16	InputMethod   GetAxis             	("Vertical")
+		[ 1] : Line:   17	InputMethod   GetAxis             	("Horizontal")
+
+
+3 scripts modified!
+Overwriting actual scripts...
+	[0 / 3] from  [C:/Users/Ibrahim Hashmi/Documents/WorkSpace_2022/00-AllDONE/RFPS_ExtremeLowSize/CF2-Data/Script-Backups/2023-01-22-16-08\Assets-After/\RotateGuns.cs] to [C:/Users/Ibrahim Hashmi/Documents/WorkSpace_2022/00-AllDONE/RFPS_ExtremeLowSize/Assets/\RotateGuns.cs]
+	[1 / 3] from  [C:/Users/Ibrahim Hashmi/Documents/WorkSpace_2022/00-AllDONE/RFPS_ExtremeLowSize/CF2-Data/Script-Backups/2023-01-22-16-08\Assets-After/\StoreHandlerV3.cs] to [C:/Users/Ibrahim Hashmi/Documents/WorkSpace_2022/00-AllDONE/RFPS_ExtremeLowSize/Assets/\StoreHandlerV3.cs]
+	[2 / 3] from  [C:/Users/Ibrahim Hashmi/Documents/WorkSpace_2022/00-AllDONE/RFPS_ExtremeLowSize/CF2-Data/Script-Backups/2023-01-22-16-08\Assets-After/\MiniMap\_Demo\Player.cs] to [C:/Users/Ibrahim Hashmi/Documents/WorkSpace_2022/00-AllDONE/RFPS_ExtremeLowSize/Assets/\MiniMap\_Demo\Player.cs]
+
+Overwriting COMPLETED!

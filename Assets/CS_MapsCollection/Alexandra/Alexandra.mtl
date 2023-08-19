@@ -1,0 +1,408 @@
+# siteBwall03b
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_0.tga
+
+# siteBwall06a
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_1.tga
+
+# siteBwall05c
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_2.tga
+
+# stonewall02b
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_3.tga
+
+# stonewall02a
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_4.tga
+
+# templewall03a
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_5.tga
+
+# siteBwall14
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_6.tga
+
+# CSTRIKE_FT2DIRT
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_7.tga
+
+# sky
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_8.tga
+
+# templewall04b
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_9.tga
+
+# templewall04a
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_10.tga
+
+# residwall02
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_11.tga
+
+# dusandwlltrim3
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_12.tga
+
+# templewall03
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_13.tga
+
+# templewall03b
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_14.tga
+
+# picrate2
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_15.tga
+
+# picrate1
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_16.tga
+
+# window_bridge
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_17.tga
+
+# templewall04
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_18.tga
+
+# window_6x8_shut
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_19.tga
+
+# templewall02a
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_20.tga
+
+# templewall02b
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_21.tga
+
+# rope
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_22.tga
+
+# door04
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_23.tga
+
+# marketwall05a
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_24.tga
+
+# crate_64x64h
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_25.tga
+
+# window_palace
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_26.tga
+
+# door07
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_27.tga
+
+# crate_64x64d
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_28.tga
+
+# siteBwall10b
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_29.tga
+
+# siteBwall10a
+newmtl material_30
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_30.tga
+
+# rockwall01
+newmtl material_31
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_31.tga
+
+# window_4x6_arch
+newmtl material_32
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_32.tga
+
+# residwall05b
+newmtl material_33
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_33.tga
+
+# residwall05
+newmtl material_34
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_34.tga
+
+# door011
+newmtl material_35
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_35.tga
+
+# crate_64x64
+newmtl material_36
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_36.tga
+
+# cratea_64x64
+newmtl material_37
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_37.tga
+
+# dusandcrete
+newmtl material_38
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_38.tga
+
+# dutile1
+newmtl material_39
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_39.tga
+
+# stonewall02c
+newmtl material_40
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_40.tga
+
+# tilefloor01
+newmtl material_41
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_41.tga
+
+# window_4x4_squa
+newmtl material_42
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_42.tga
+
+# door10
+newmtl material_43
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_43.tga
+
+# residwall06a
+newmtl material_44
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_44.tga
+
+# siteBwall13a
+newmtl material_45
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_45.tga
+
+# cratea_128x128
+newmtl material_46
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_46.tga
+
+# window_4x6_squa
+newmtl material_47
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_47.tga
+
+# door02
+newmtl material_48
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_48.tga
+
+# siteBwall11a
+newmtl material_49
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_49.tga
+
+# siteBwall01
+newmtl material_50
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_50.tga
+
+# siteBwall01b
+newmtl material_51
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_51.tga
+
+# siteBwall01a
+newmtl material_52
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_52.tga
+
+# siteBwall08a
+newmtl material_53
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_53.tga
+
+# residBwall04
+newmtl material_54
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_54.tga
+
+# residBwall04a
+newmtl material_55
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_55.tga
+
+# residBwall03a
+newmtl material_56
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_56.tga
+
+# residwall04a
+newmtl material_57
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_57.tga
+
+# residwall06b
+newmtl material_58
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_58.tga
+
+# crate_96x96b
+newmtl material_59
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_59.tga
+
+# residwall04b
+newmtl material_60
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_60.tga
+
+# door05
+newmtl material_61
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_61.tga
+
+# residBwall04b
+newmtl material_62
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_62.tga
+
+# +0~drkmtls2c
+newmtl material_63
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_63.tga
+
+# white
+newmtl material_64
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_64.tga
+
+# aaatrigger
+newmtl material_65
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_65.tga
+
+# +0~light5a
+newmtl material_66
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_66.tga
+
+# +0~light4a
+newmtl material_67
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd Alexandra_material_67.tga
+
